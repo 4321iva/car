@@ -1,0 +1,14 @@
+D:\visual studio\car\car\obj\Debug\net8.0\car.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\car\car\obj\Debug\net8.0\car.AssemblyInfoInputs.cache
+D:\visual studio\car\car\obj\Debug\net8.0\car.AssemblyInfo.cs
+D:\visual studio\car\car\obj\Debug\net8.0\car.csproj.CoreCompileInputs.cache
+D:\visual studio\car\car\bin\Debug\net8.0\car.exe
+D:\visual studio\car\car\bin\Debug\net8.0\car.deps.json
+D:\visual studio\car\car\bin\Debug\net8.0\car.runtimeconfig.json
+D:\visual studio\car\car\bin\Debug\net8.0\car.dll
+D:\visual studio\car\car\bin\Debug\net8.0\car.pdb
+D:\visual studio\car\car\obj\Debug\net8.0\car.dll
+D:\visual studio\car\car\obj\Debug\net8.0\refint\car.dll
+D:\visual studio\car\car\obj\Debug\net8.0\car.pdb
+D:\visual studio\car\car\obj\Debug\net8.0\car.genruntimeconfig.cache
+D:\visual studio\car\car\obj\Debug\net8.0\ref\car.dll
